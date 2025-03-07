@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6693ed6cc0433c708b202413"
+  },
+  "bookname": "Wuthering Heights",
+  "rating": "5",
+  "review": "This a romantic novel."
+},
+{
+  "_id": {
+    "$oid": "6693ed77c0433c708b202414"
+  }
+},
+{
+  "_id": {
+    "$oid": "6693ed7dc0433c708b202415"
+  },
+  "bookname": "Pride and Prejudice",
+  "rating": "5",
+  "review": "This is also romantic novel. My favorite character is Lizzy."
+}]

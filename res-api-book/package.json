@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongodb": "^4.0.0",
+    "mongoose": "^8.5.1"
+  },
+  "name": "rest-apibook",
+  "version": "1.0.0",
+  "description": "rest api for books",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "infogirl10"
+  },
+  "author": "",
+  "license": "MIT"
+}

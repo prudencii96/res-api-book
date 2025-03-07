@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "669542a4afaa5fc1ed791108"
+  },
+  "email: ": "sean_bean@gameofthron.es",
+  "password:": "$2b$12$UREFwsRUoyF0CRqGNK0LzO0HM/jLhgUCNNIJ9RJAqMUQ74crlJ1Vu",
+  "name": "Ned Stark",
+  "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MTk5MDkzMjEsIm5iZiI6M…"
+},
+{
+  "_id": {
+    "$oid": "66954372afaa5fc1ed79110c"
+  },
+  "email": "kusztor.eva.it@gmail.com",
+  "name": "Eve Cuastore",
+  "password:": "bd0f17042ff2f6733b4ebb30dfa68f5a",
+  "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MTk5MDkzMjEsIm5izZiI6M…"
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6693ea6ac0433c708b20240e"
+  },
+  "author": "Emily Bronte",
+  "title": "Wuthering Heights",
+  "type": "book",
+  "year": "1847"
+},
+{
+  "_id": {
+    "$oid": "6693ebdfc0433c708b202410"
+  },
+  "author": "Stephenie Meyer",
+  "title": "Twilight",
+  "type": "book",
+  "year": "2005"
+},
+{
+  "_id": {
+    "$oid": "6693ec4dc0433c708b202411"
+  },
+  "author": "Jane Austin",
+  "title": "Pride and Prejudice",
+  "type": "book",
+  "year": "1813"
+}]
